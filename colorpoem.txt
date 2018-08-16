@@ -1,4 +1,4 @@
-Poema Colorido
+Poema Colorido y Star Wars
 
 Las rosas son rojas
 Las vietalas azules
@@ -7,3 +7,5 @@ Y los taxis amarillos
 
 Los perros son cafes
 Las vacas blancas y negras
+
+Luke con su padre Darth Vader
