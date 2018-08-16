@@ -1,6 +1,9 @@
 Poema Colorido
 
 Las rosas son rojas
-Las vietalas son azules
+Las vietalas azules
 Los arboles verdes
 Y los taxis amarillos
+
+Los caballos son cafes
+Las vacas blancas
